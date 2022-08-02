@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="850" height="300" src="https://media0.giphy.com/media/3o6vXTpomeZEyxufGU/giphy.gif?cid=790b76110245e63f9451216a00bc739c570449138d7a75bc&rid=giphy.gif&ct=g" />
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/3o6vXTpomeZEyxufGU/giphy.gif?cid=790b76110245e63f9451216a00bc739c570449138d7a75bc&rid=giphy.gif&ct=g" />
 <h1 align="center">Hi 👋, I'm Kushan Madhusanka</h1>
 <h3 align="center">Undergraduate of University of Moratuwa | A passionate full stack developer | Beginner of mobile development</h3>
 
