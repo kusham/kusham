@@ -1,11 +1,12 @@
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/3o6vXTpomeZEyxufGU/giphy.gif?cid=790b76110245e63f9451216a00bc739c570449138d7a75bc&rid=giphy.gif&ct=g" />
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif)" width="100"/>
+</div>
  💫 About Me:
 <h1 align="center">Hi 👋, I'm Kushan Madhusanka</h1>
 <h3 align="center">Undergraduate of University of Moratuwa | A passionate full stack developer | Beginner of mobile development</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kusham&label=Profile%20views&color=0e75b6&style=flat" alt="kusham" /> </p>
+
 
 
 <p align="left"> <a href="https://twitter.com/kushanmadhusan5" target="blank"><img src="https://img.shields.io/twitter/follow/kushanmadhusan5?logo=twitter&style=for-the-badge" alt="kushanmadhusan5" /></a> </p>
@@ -37,6 +38,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kusham&theme=radical&hide_border=false)<br/>
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kusham&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kusham&show_icons=true&locale=en&layout=compact" alt="kusham" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kusham&show_icons=true&locale=en" alt="kusham" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kusham&" alt="kusham" /></p>
 
 
 
