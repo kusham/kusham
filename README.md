@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Kushan Madhusanka</h1>
 <h3 align="center">Undergraduate of University of Moratuwa | A passionate full stack developer | Beginner of mobile development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kusham&label=Profile%20views&color=0e75b6&style=flat" alt="kusham" /> </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
 <p align="left"> <a href="https://twitter.com/kushanmadhusan5" target="blank"><img src="https://img.shields.io/twitter/follow/kushanmadhusan5?logo=twitter&style=for-the-badge" alt="kushanmadhusan5" /></a> </p>
