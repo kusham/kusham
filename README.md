@@ -33,12 +33,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kusham&show_icons=true&locale=en" />
-![](https://github-readme-stats.vercel.app/api?username=kusham&show_icons=true&locale=en)<br/>
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kusham&theme=radical&hide_border=false)<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=kusham&show_icons=true&locale=en&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=kusham&show_icons=true&locale=en" /><br/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kusham&theme=radical&hide_border=false" /><br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kusham&show_icons=true&locale=en&layout=compact" /><br/>
 </div>
 
 
